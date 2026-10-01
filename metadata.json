@@ -1,0 +1,6 @@
+{
+  "name": "Skill Forge AI – Full-Stack Learning & Career Development Platform",
+  "description": "Enterprise-grade full-stack career development and technical placement platform with AI interview simulation, code execution studio, aptitude training, and multi-role student, staff, and admin governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
